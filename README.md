@@ -22,6 +22,6 @@
 
 ### 📈 Stats
 
-[![Hibiki Fox's GitHub stats](https://github-readme-stats.vercel.app/api?username=offensive-cat&count_private=true&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
+[![Hibiki Fox\'s GitHub stats](https://github-readme-stats.vercel.app/api?username=offensive-cat&count_private=true&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=offensive-cat&count_private=true&theme=discord_old_blurple&hide=html,php,blade&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
