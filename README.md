@@ -12,7 +12,7 @@
 
 ### 💻 Language and Tools
 
-<div align="center">  
+<div align="left">  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
@@ -27,8 +27,11 @@
 </div>
 
 ### 📈 Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=offensive-cat&count_private=true&theme=discord_old_blurple" align="center">
-</p>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=offensive-cat&show_icons=true&count_private=true&hide_border=true&theme=transparent&text_color=d9d9d9&title_color=ffffff" align="center" />
+</div>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=offensive-cat&hide_border=true&layout=compact&theme=transparent&text_color=d9d9d9&title_color=ffffff" align="center" />
+</div>
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=offensive-cat&count_private=true&theme=discord_old_blurple&hide=html,php,blade&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
