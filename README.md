@@ -1,6 +1,6 @@
 ### Profie
 
-- 🦊 Hibiki Fox
+- 🦊 I like Fox
 - 👀 Interested with InfoSec and Generative AI
 - 🌱 Currently learning C++ and Node.js
 - 📫 How to reach me?
