@@ -10,7 +10,7 @@
   [![Facebook](https://img.shields.io/badge/facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/blackneko.404) 
      
 
-### 💻 Language and Tools
+### 💻 Languages and Tools
 
 <div align="left">  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
