@@ -1,9 +1,10 @@
 ### Profie
 
 - 🦊 Hibiki Fox
-- 👀 Interested with InfoSec
+- 👀 Interested with InfoSec and Generative AI
 - 🌱 Currently learning C++ and Node.js
 - 📫 How to reach me?
+
   [![Gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stonycat.maru@gmail.com)
   [![Telegram](https://img.shields.io/badge/telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/oc_dark)
   [![Facebook](https://img.shields.io/badge/facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/blackneko.404) 
