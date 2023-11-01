@@ -14,17 +14,17 @@
 ### 💻 Languages and Tools
 
 <div align="left">
-    <a href="https://nodejs.org/" target="_blank"><img height="38" style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
-    <a href="https://www.javascript.com/" target="_blank"><img height="38" style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
-    <a href="https://expressjs.com/" target="_blank"><img height="38" style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>
-    <a href="https://www.python.org/" target="_blank"><img height="38" style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
-    <a href="https://www.mongodb.com/" target="_blank"><img height="38" style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
-    <a href="https://azure.microsoft.com/en-in/" target="_blank"><img height="38" style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>
-    <a href="https://www.tensorflow.org/" target="_blank"><img height="38" style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>
-    <a href="https://keras.io/" target="_blank"><img height="38" style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>
-    <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img height="38" style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>
-    <a href="https://www.linux.org/" target="_blank"><img height="38" style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
-    <a href="https://www.figma.com/" target="_blank"><img height="38" style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>
+    <a href="https://nodejs.org/" target="_blank"> <img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="38" /></a>
+    <a href="https://www.javascript.com/" target="_blank"> <img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="38" /></a>
+    <a href="https://expressjs.com/" target="_blank"> <img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="38" /></a>
+    <a href="https://www.python.org/" target="_blank"> <img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="38" /></a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="38" /></a>
+    <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="38" /></a>
+    <a href="https://www.tensorflow.org/" target="_blank"> <img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="38" /></a>
+    <a href="https://keras.io/" target="_blank"> <img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="38" /></a>
+    <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"> <img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="38" /></a>
+    <a href="https://www.linux.org/" target="_blank"> <img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="38" /></a>
+    <a href="https://www.figma.com/" target="_blank"> <img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="38" /></a>
 </div>
 
 
