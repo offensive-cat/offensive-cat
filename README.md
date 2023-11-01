@@ -1,4 +1,4 @@
-### Profie
+### Profile
 
 - 🦊 I like Fox
 - 👀 Interested with InfoSec and Generative AI
