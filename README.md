@@ -30,15 +30,15 @@
 
 ### 📈 Stats
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=offensive-cat&show_icons=true&count_private=true&hide_border=true&theme=transparent&text_color=d9d9d9&title_color=ffffff" align="center" />
+    <img src="https://github-readme-stats.vercel.app/api?username=offensive-cat&show_icons=true&count_private=true&hide_border=true&theme=transparent&text_color=d9d9d9&title_color=ffffff" align="center" />
 </div>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=offensive-cat&hide_border=true&layout=compact&theme=transparent&text_color=d9d9d9&title_color=ffffff" align="center" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=offensive-cat&hide_border=true&layout=compact&theme=transparent&text_color=d9d9d9&title_color=ffffff" align="center" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=offensive-cat&&style=flat-square" align="center" />
-  <a href="https://www.buymeacoffee.com/ofn.cat" target="_blank" style="display: inline-block;"><img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="center" /></a>
+    <img src="https://komarev.com/ghpvc/?username=offensive-cat&&style=flat-square" align="center" />
+    <a href="https://www.buymeacoffee.com/ofn.cat" target="_blank" style="display: inline-block;"><img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="center" /></a>
 </div>
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=offensive-cat&count_private=true&theme=discord_old_blurple&hide=html,php,blade&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
